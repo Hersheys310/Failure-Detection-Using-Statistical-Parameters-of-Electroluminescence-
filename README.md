@@ -3,11 +3,11 @@ Solar Cell Cracks and Finger Failure Detection using Statistical Parameters of E
 
 This is a private repo to share the code and necessary material to understand the project. The repo has the following structure:
 
-Code: Contains the python code used for classifying solar cell cracks and finger failures through three supervised ML methods. 
+ML paper code: Contains the python code used for classifying solar cell cracks and finger failures through three supervised ML methods. 
 
 Manuscript: Contains the published paper
 
-Dataset: Contains a subset of images of each class (failure and healthy cells) used for analysis.
+Dataset (crackccells, fingerfailurecells, crackcmask, fingerfailuremask): Contains a subset of images and their respective binary mask of each failure class used for analysis.
 
 Results: Contains the image file of all the results used in the paper.
 
